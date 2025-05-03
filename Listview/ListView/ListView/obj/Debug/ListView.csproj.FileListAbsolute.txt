@@ -1,0 +1,10 @@
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\bin\Debug\ListView.exe.config
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\bin\Debug\ListView.exe
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\bin\Debug\ListView.pdb
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.csproj.AssemblyReference.cache
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.Form1.resources
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.Properties.Resources.resources
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.csproj.GenerateResource.cache
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.csproj.CoreCompileInputs.cache
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.exe
+D:\ITEC2025\PROGRAMACION\II Parcial\trabajo\ListView\ListView\obj\Debug\ListView.pdb
